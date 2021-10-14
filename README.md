@@ -10,7 +10,7 @@
 - 💻 I’m currently learning ... ![jenkins](https://img.shields.io/badge/-Jenkins-9cf?style=flat&logo=jenkins)
 - 💬 Ask me about ... Anything!
 - 🦸‍♀️   Pronouns ... Chai
-- 📫 How to reach me: ...![google](https://img.shields.io/badge/gmail-@chaithra.mh%40dxc.com-orange)
+- 📫 How to reach me: ...![google](https://img.shields.io/badge/gmail-@chaithrachintu1%40gmail.com-orange)
 - ⚡ Fun fact: ... live and learn what you Dream and What makes you Happy 🪔✨🌷
 
 ---
