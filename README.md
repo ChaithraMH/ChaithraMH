@@ -1,4 +1,4 @@
-### ✨👩💻 Hi there cmh 👋 /chaithrachintu1@gmail.com ✌🏻  !!
+### ✨👩💻 Hi there Chaithra 👋 /chaithrachintu1@gmail.com ✌🏻  !!
 
 
 
