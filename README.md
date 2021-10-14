@@ -13,11 +13,6 @@
 - 📫 How to reach me: ...![google](https://img.shields.io/badge/gmail-@chaithra.mh%40dxc.com-orange)
 - ⚡ Fun fact: ... live and learn what you Dream and What makes you Happy 🪔✨🌷
 
-### All my Repos are under our [ACIOPR team page here]
----
-
-### [ACIOPR team page here] ... https://github.dxc.com/ACIOPR
-
 ---
 ### 🛠 &nbsp;Languages and Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -25,3 +20,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+---
+### ⚙️ &nbsp;Chaithra's Github Stat's
+
+ <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ChaithraMH&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
