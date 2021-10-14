@@ -1,4 +1,4 @@
-### ✨👩💻 Hi there cmh 👋 /chaithra.mh@dxc.com /11703034 ✌🏻  !!
+### ✨👩💻 Hi there cmh 👋 /chaithrachintu1@gmail.com ✌🏻  !!
 
 
 
